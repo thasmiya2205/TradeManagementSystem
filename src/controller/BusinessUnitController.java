@@ -20,6 +20,9 @@ public class BusinessUnitController {
 
 	public void deleteBusinessUnit() {
 		//call deleteBusinessUnit() from BusinessUnitService
+		System.out.println("deleted");
+
+		//git feature test
 		
 	}
 
